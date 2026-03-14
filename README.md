@@ -15,7 +15,7 @@ My goal is to keep growing as a developer by taking on more complex challenges, 
 
 <br>
 
-## Programming Languages That I Know 👨🏻‍💻
+## Programming Languages and Technologies 👨🏻‍💻
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,py,java,git,vscode,github&perline=14" />
   </a>
